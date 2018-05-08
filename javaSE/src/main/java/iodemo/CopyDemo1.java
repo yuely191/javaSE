@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import javax.xml.ws.BindingType;
 public class CopyDemo1 {
 	
 	public static void main(String[] args) throws IOException {
